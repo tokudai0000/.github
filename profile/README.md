@@ -25,8 +25,9 @@
 
 ***
 
-> - <strong > 2023.2 現在 ダウンロード数 1300 回</strong>
-> - <strong > 2023.2 現在 DAU 611 ユーザー </strong>
-> - <strong > 2023.2 現在 MAU 865 ユーザー </strong>
+<strong> 2023.2 現在
+ダウンロード数 1300 回
+DAU 611 ユーザー
+MAU 865 ユーザー </strong>
 
 現在の運営者 [@akidon0000](https://github.com/akidon0000)

@@ -3,7 +3,7 @@
 ***
 
 ### History
-- 2021.8  UniversityInformationPortal(略称: UnivIP)を、自分だけが使うアプリとして[1人](https://github.com/akidon0000)で開発を開始
+- 2021.8  UniversityInformationPortal(略称: UnivIP)を、自分だけが使うアプリとして[1人](https://github.com/akidon0000)で松山が開発を開始
 - 2021.8  友人も使える様にとトクメモiOS版を限定公開
 - 2021.9  友人からの反響が大きく、[トクメモiOS版](https://apps.apple.com/jp/app/id1582738889)をAppleStoreに一般公開
 - <strong > 2021.10 10ダウンロード達成 </strong>
@@ -25,9 +25,10 @@
 
 ***
 
-<strong> 2023.2 現在
-- ダウンロード数 1300 回
-- DAU 611 ユーザー
-- MAU 865 ユーザー </strong>
+<strong> 2023.3 現在
+2023.3 現在
+- ダウンロード数 1464 回
+- DAU 685 ユーザー
+- MAU 1039 ユーザー </strong>
 
-現在の運営者 [@akidon0000](https://github.com/akidon0000)
+現在の運営者 [@akidon0000](https://github.com/akidon0000) 松山 晃大

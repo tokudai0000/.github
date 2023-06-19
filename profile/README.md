@@ -25,15 +25,16 @@
 - 2023.3 Android版のデザインを大幅修正したVer4.0.0のリリース
 - <strong> 2023.4 1500ダウンロード達成 </strong>
 - <strong> 2023.4 2000ダウンロード達成 </strong>
+- <strong> 2023.5 2500ダウンロード達成 </strong>
+- 2023.6　トクメモ＋を学生達で運営していくために、トクメモGroupeを設立(2人で運営)
 
-***
-
-<strong> 2023.5 現在
-- ダウンロード数 2500 回
-- DAU 1380 ユーザー
+<strong> 2023.6 現在
+- ダウンロード数 2800 回
+- DAU 1500 ユーザー
 - MAU 2100 ユーザー </strong>
 
 最新の情報はこちら
 https://lit.link/developers
 
-現在の運営者 [@akidon0000](https://github.com/akidon0000) 松山 晃大
+現在の運営者 
+- [@akidon0000](https://github.com/akidon0000) 松山 晃大

@@ -28,13 +28,11 @@
 - <strong> 2023.5 2500ダウンロード達成 </strong>
 - 2023.6　トクメモ＋を学生達で運営していくために、トクメモGroupeを設立(2人で運営)
 
-<strong> 2023.7 現在
-- ダウンロード数 2870 回
+<strong> 2023.9 現在
+- ダウンロード数 3000 回
 - DAU 1500 ユーザー
-- MAU 2100 ユーザー </strong>
-
-最新の情報はこちら
-https://lit.link/developers
+- MAU 2200 ユーザー </strong>
 
 現在の運営者 
 - [@akidon0000](https://github.com/akidon0000) 松山 晃大
+- [@marlion01](https://github.com/marlion01) ホリ
